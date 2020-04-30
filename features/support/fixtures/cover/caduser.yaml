@@ -1,0 +1,13 @@
+user_1:
+  email: "challenge1@cateno.com"
+  first_name: "William"
+  last_name: "Albuquerque"
+  password: "cateno123"
+  address_first_name: "William"
+  address_last_name: "Albuquerque"
+  address: "Teste Avenue, 1000"
+  city: "Hanceville"
+  zip_postal_code: 35077
+  mobile_phone: 988566647
+  address_alias: "home"
+
